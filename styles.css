@@ -15,8 +15,8 @@ body {
     justify-content: center;
     align-content: center;
     min-height: 100vh;
-    grid-template-columns: repeat(4, 6vw);
-    grid-template-rows: minmax(8vw, auto) repeat(5, 6vw);
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: minmax(120px, auto) repeat(5, 100px);
 }
 
 .calculator-grid > button {
@@ -42,7 +42,7 @@ body {
     align-items: flex-end;
     justify-content: space-around;
     flex-direction: column;
-    padding: 1vw;
+    padding: 10px;
     word-wrap: break-word;
     word-break: break-all;
 }
