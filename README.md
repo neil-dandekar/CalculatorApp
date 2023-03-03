@@ -1,2 +1,2 @@
 # CalculatorApp
-This is a simple calculator app. You can open it here: https://neil-dandekar.github.io/CalculatorApp/.
+This calculator website can be opened [here](https://neil-dandekar.github.io/CalculatorApp/).
